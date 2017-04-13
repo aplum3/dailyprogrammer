@@ -1,0 +1,6 @@
+G:\Users\Aaron\Documents\Visual Studio 2015\Projects\DailyProgrammer\GameOfThrees\GameOfThrees\bin\Debug\GameOfThrees.exe.config
+G:\Users\Aaron\Documents\Visual Studio 2015\Projects\DailyProgrammer\GameOfThrees\GameOfThrees\bin\Debug\GameOfThrees.exe
+G:\Users\Aaron\Documents\Visual Studio 2015\Projects\DailyProgrammer\GameOfThrees\GameOfThrees\bin\Debug\GameOfThrees.pdb
+G:\Users\Aaron\Documents\Visual Studio 2015\Projects\DailyProgrammer\GameOfThrees\GameOfThrees\obj\Debug\GameOfThrees.csprojResolveAssemblyReference.cache
+G:\Users\Aaron\Documents\Visual Studio 2015\Projects\DailyProgrammer\GameOfThrees\GameOfThrees\obj\Debug\GameOfThrees.exe
+G:\Users\Aaron\Documents\Visual Studio 2015\Projects\DailyProgrammer\GameOfThrees\GameOfThrees\obj\Debug\GameOfThrees.pdb
